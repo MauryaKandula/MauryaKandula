@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title description">
+  <title id="title">Player Status System Window</title>
+  <desc id="description">A violet and cyan hunter system panel showing player status, class, skills, and active quests.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b16"/>
+      <stop offset="0.54" stop-color="#141226"/>
+      <stop offset="1" stop-color="#0b111a"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8a5bff"/>
+      <stop offset="0.53" stop-color="#36d8ff"/>
+      <stop offset="1" stop-color="#51efae"/>
+    </linearGradient>
+    <linearGradient id="meter" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8c5cff"/>
+      <stop offset="1" stop-color="#38dfff"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#7667b5" stroke-opacity=".11" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="308" rx="18" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="12" y="12" width="1176" height="286" rx="12" fill="url(#grid)"/>
+  <path d="M24 68V26h54M1176 68V26h-54M24 242v42h54M1176 242v42h-54" fill="none" stroke="url(#edge)" stroke-width="2" opacity=".9"/>
+  <circle cx="1108" cy="70" r="31" fill="none" stroke="#8a5bff" stroke-width="1.5" opacity=".75"/>
+  <circle cx="1108" cy="70" r="21" fill="none" stroke="#35d8ff" stroke-width="1" opacity=".7"/>
+  <path d="M1097 70h22M1108 59v22" stroke="#8a5bff" stroke-width="1.4" opacity=".8"/>
+  <text x="52" y="53" fill="#44ddff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">THE SYSTEM // PLAYER PROFILE</text>
+  <text x="52" y="103" fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1">STATUS WINDOW</text>
+  <text x="54" y="131" fill="#aaa6c8" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1.2">PLAYER DATA SYNCHRONIZED  ·  AU VIZAG, INDIA</text>
+  <path d="M52 153h1096" stroke="#746da0" stroke-opacity=".4"/>
+  <rect x="52" y="172" width="250" height="91" rx="9" fill="#121222" stroke="#795bdf" stroke-opacity=".75"/>
+  <text x="70" y="198" fill="#9f91ce" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">CURRENT RANK</text>
+  <text x="70" y="235" fill="#ede9ff" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700">E-RANK</text>
+  <text x="177" y="234" fill="#46dfd1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">LEVELING UP</text>
+  <rect x="70" y="247" width="206" height="4" rx="2" fill="#28243d"/>
+  <rect x="70" y="247" width="110" height="4" rx="2" fill="url(#meter)"/>
+  <text x="332" y="188" fill="#44ddff" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">CLASS PATH</text>
+  <text x="332" y="218" fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">APP BUILDER → FULL-STACK DEVELOPER</text>
+  <text x="332" y="242" fill="#aaa6c8" font-family="Segoe UI, Arial, sans-serif" font-size="14">10+ prototypes built · web + desktop loadout · open to the next party</text>
+  <rect x="332" y="262" width="782" height="5" rx="2.5" fill="#242239"/>
+  <rect x="332" y="262" width="438" height="5" rx="2.5" fill="url(#meter)" filter="url(#glow)"/>
+  <text x="332" y="289" fill="#8f8aa9" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1.4">QUEST: SHIP USEFUL BUILDS / LEARN FAST / REPEAT</text>
+  <circle cx="1146" cy="278" r="4" fill="#53f0b1" filter="url(#glow)"/>
+</svg>

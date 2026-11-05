@@ -33,6 +33,10 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4EA8DE">
 </p>
 
+<div align="center">
+  <img src="./assets/system-panel.svg" alt="Solo Leveling inspired player status window with active quests and skills" width="100%">
+</div>
+
 ---
 
 ## 01 / OPERATOR PROFILE
@@ -90,6 +94,32 @@ I’m sharpening my full-stack skills and building more complete products with R
 **Open to:** internships · entry-level roles · hackathons · collaborations<br>
 **Email:** [mauryakpsofficial@gmail.com](mailto:mauryakpsofficial@gmail.com)<br>
 **GitHub:** [@MauryaKandula](https://github.com/MauryaKandula)
+
+## 06 / HUNTER SYSTEM — PLAYER LOG
+
+<p align="center">
+  <code>SYSTEM WINDOW // PLAYER DATA SYNCED</code> &nbsp;•&nbsp;
+  <code>RANK: E → LEVELING UP</code> &nbsp;•&nbsp;
+  <code>CLASS: APP BUILDER</code>
+</p>
+
+| System field | Current readout |
+|:--|:--|
+| **Player** | Maurya Kandula · CSE student at Andhra University, Vizag |
+| **Unlocked title** | Prototype Builder · 10+ app prototypes |
+| **Loadout** | Python · PyQt6 · SQLite · TypeScript · React · Express |
+| **Passive skill** | Learn fast, ship early, polish the user experience |
+| **Party status** | Open to internships, hackathons, and building with good teammates |
+
+### ACTIVE QUESTS
+
+- [ ] Turn more prototypes into complete, reliable products.
+- [ ] Keep leveling up full-stack skills with React, TypeScript, and Express.
+- [ ] Join a strong team, ship useful work, and learn from the build.
+
+<p align="center">
+  <sub><code>QUEST ACCEPTED / BUILD SOMETHING PEOPLE WANT TO KEEP USING</code></sub>
+</p>
 
 <p align="center">
   <sub><code>BUILD AT THE EDGE / LEARN BY SHIPPING / REPEAT</code></sub>
