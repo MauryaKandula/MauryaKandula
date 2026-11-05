@@ -36,15 +36,16 @@
   <path d="M52 153h1096" stroke="#746da0" stroke-opacity=".4"/>
   <rect x="52" y="172" width="250" height="91" rx="9" fill="#121222" stroke="#795bdf" stroke-opacity=".75"/>
   <text x="70" y="198" fill="#9f91ce" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">CURRENT RANK</text>
-  <text x="70" y="235" fill="#ede9ff" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700">E-RANK</text>
-  <text x="177" y="234" fill="#46dfd1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">LEVELING UP</text>
-  <rect x="70" y="247" width="206" height="4" rx="2" fill="#28243d"/>
-  <rect x="70" y="247" width="110" height="4" rx="2" fill="url(#meter)"/>
+  <text x="70" y="231" fill="#ede9ff" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">E → SSS+</text>
+  <text x="70" y="248" fill="#46dfd1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">LEVELING UP</text>
+  <rect x="70" y="256" width="206" height="4" rx="2" fill="#28243d"/>
+  <rect x="70" y="256" width="110" height="4" rx="2" fill="url(#meter)"/>
   <text x="332" y="188" fill="#44ddff" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">CLASS PATH</text>
   <text x="332" y="218" fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">APP BUILDER → FULL-STACK DEVELOPER</text>
-  <text x="332" y="242" fill="#aaa6c8" font-family="Segoe UI, Arial, sans-serif" font-size="14">10+ prototypes built · web + desktop loadout · open to the next party</text>
-  <rect x="332" y="262" width="782" height="5" rx="2.5" fill="#242239"/>
-  <rect x="332" y="262" width="438" height="5" rx="2.5" fill="url(#meter)" filter="url(#glow)"/>
-  <text x="332" y="289" fill="#8f8aa9" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1.4">QUEST: SHIP USEFUL BUILDS / LEARN FAST / REPEAT</text>
+  <text x="332" y="242" fill="#c9b6ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1">TITLE UNLOCKED: PROTOTYPE MONARCH</text>
+  <text x="332" y="261" fill="#aaa6c8" font-family="Segoe UI, Arial, sans-serif" font-size="12">10+ prototypes built · web + desktop loadout · open to the next party</text>
+  <rect x="332" y="277" width="782" height="5" rx="2.5" fill="#242239"/>
+  <rect x="332" y="277" width="438" height="5" rx="2.5" fill="url(#meter)" filter="url(#glow)"/>
+  <text x="332" y="296" fill="#8f8aa9" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1.4">QUEST: SHIP USEFUL BUILDS / LEARN FAST / REPEAT</text>
   <circle cx="1146" cy="278" r="4" fill="#53f0b1" filter="url(#glow)"/>
 </svg>
