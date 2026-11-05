@@ -1,53 +1,96 @@
 <div align="center">
-  <img src="./assets/profile-banner.gif" alt="Animated neon cyberpunk banner with a custom Edgerunner-inspired insignia" width="100%">
+  <img src="./assets/profile-banner.gif" alt="Animated neon cyberpunk banner with a custom green insignia" width="100%">
 </div>
-
-<div align="center">
-  <img src="./assets/profile-mark.png" alt="Maurya's green mark" width="38">
-  &nbsp;&nbsp;
-  <img src="./assets/edgerunner-symbol.svg" alt="Original Edgerunner-inspired insignia" width="38">
-</div>
-
-<h1 align="center">Kandula Paul Saketh Maurya</h1>
 
 <p align="center">
-  <strong>Web & App Developer · CSE @ AU Vizag · Hackathon Builder</strong><br>
-  I turn prototypes into useful products and keep getting better by shipping.
+  <img src="./assets/profile-mark.png" alt="Maurya's green cyberpunk symbol" width="48">
 </p>
 
 <p align="center">
-  <code>Python</code> &nbsp; <code>PyQt6</code> &nbsp; <code>TypeScript</code> &nbsp;
-  <code>React</code> &nbsp; <code>Express</code> &nbsp; <code>HTML / CSS</code> &nbsp; <code>SQLite</code>
+  <code>BUILD MODE: ACTIVE</code> &nbsp;•&nbsp;
+  <code>AU VIZAG, INDIA</code> &nbsp;•&nbsp;
+  <code>OPEN TO INTERNSHIPS</code>
+</p>
+
+<h1 align="center">KANDULA PAUL SAKETH MAURYA</h1>
+
+<p align="center">
+  <strong>Web &amp; App Developer · CSE @ AU Vizag · Hackathon Builder</strong><br>
+  I turn prototypes into practical web and desktop tools, then polish the details that make them feel good to use.
+</p>
+
+<p align="center">
+  10+ app prototypes &nbsp;•&nbsp; Web + desktop builds &nbsp;•&nbsp; Hackathon enthusiast
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5D4">
+  <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
+  <img alt="HTML and CSS" src="https://img.shields.io/badge/HTML%20%2F%20CSS-0D1117?style=for-the-badge&logo=html5&logoColor=FF6B6B">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4EA8DE">
 </p>
 
 ---
 
-## `01 / About`
+## 01 / OPERATOR PROFILE
 
-- 🎓 Computer Science Engineering student at Andhra University, Vizag.
-- 🛠️ Built 10+ app prototypes across web and desktop.
-- ⚡ I enjoy hackathons, practical problem-solving, and polished user experiences.
-- 📚 Currently sharpening full-stack skills by building and refining complete projects.
+Computer Science Engineering student at Andhra University, Vizag. I like taking an idea from a rough prototype to a useful app, especially when the work combines a clean interface with practical functionality.
 
-## `02 / Selected builds`
+| Signal | Details |
+|:--|:--|
+| **Build range** | Windows desktop apps, browser experiences, developer tools |
+| **Core stack** | Python, PyQt6, TypeScript, React, Express, SQLite |
+| **Current focus** | Full-stack development, product polish, and stronger end-to-end builds |
+| **Looking for** | Internships, entry-level opportunities, hackathons, and good collaborators |
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [**CyberNotes**](https://github.com/MauryaKandula/cyber-notes) | Hardware-accelerated neon sticky notes for Windows, with rich text, freehand ink, and local SQLite storage. | Python · PyQt6 |
-| [**ToolForge**](https://github.com/MauryaKandula/Web-dev/tree/main/ToolForge) | Five developer workflows for onboarding, DSA practice, resume tailoring, portfolio building, and freelance work. | TypeScript · React · Express |
-| [**DuplicateCleaner**](https://github.com/MauryaKandula/DuplicateCleaner) | Finds byte-identical duplicate files with SHA-256 and previews recoverable space before deletion. | Python · Tkinter |
-| [**MindMate**](https://github.com/MauryaKandula/MindMate) | A lightweight browser-based chatbot demo. | HTML |
+## 02 / SELECTED BUILDS
 
-## `03 / What I bring`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MauryaKandula/cyber-notes">01 / CyberNotes</a></h3>
+      <p>A hardware-accelerated Windows notes app with rich text, freehand ink, live links and tags, and local SQLite storage.</p>
+      <p><code>PYTHON</code> <code>PYQT6</code> <code>SQLITE</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MauryaKandula/Web-dev/tree/main/ToolForge">02 / ToolForge</a></h3>
+      <p>Five developer workflows for onboarding, DSA practice, resume tailoring, portfolio building, and freelance work.</p>
+      <p><code>TYPESCRIPT</code> <code>REACT</code> <code>EXPRESS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MauryaKandula/DuplicateCleaner">03 / DuplicateCleaner</a></h3>
+      <p>Finds byte-identical files with SHA-256 and previews recoverable space before deletion.</p>
+      <p><code>PYTHON</code> <code>TKINTER</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MauryaKandula/MindMate">04 / MindMate</a></h3>
+      <p>A lightweight browser-based chatbot demo built as a focused web prototype.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JAVASCRIPT</code></p>
+    </td>
+  </tr>
+</table>
 
-- Prototype quickly, then polish the details that make software comfortable to use.
-- Work across web and desktop interfaces, with a growing full-stack toolkit.
-- Communicate clearly, collaborate well, and learn fast in hands-on teams.
+## 03 / HOW I BUILD
 
-## `04 / Contact`
+- Start with the user problem and make the first working version quickly.
+- Keep the interface clear, then spend time on the small details: feedback, spacing, and edge cases.
+- Learn by shipping complete projects across web and desktop.
 
-For roles, collaborations, or a quick hello: **[mauryakpsofficial@gmail.com](mailto:mauryakpsofficial@gmail.com)**
+## 04 / CURRENT TRANSMISSION
+
+I’m sharpening my full-stack skills and building more complete products with React, Express, Python, and Qt. I’m especially interested in practical tools, thoughtful UI, and teams where I can contribute while learning fast.
+
+## 05 / CONTACT
+
+**Open to:** internships · entry-level roles · hackathons · collaborations<br>
+**Email:** [mauryakpsofficial@gmail.com](mailto:mauryakpsofficial@gmail.com)<br>
+**GitHub:** [@MauryaKandula](https://github.com/MauryaKandula)
 
 <p align="center">
-  <sub>Build at the edge. Learn by shipping.</sub>
+  <sub><code>BUILD AT THE EDGE / LEARN BY SHIPPING / REPEAT</code></sub>
 </p>
