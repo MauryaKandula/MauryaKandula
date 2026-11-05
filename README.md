@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/profile-banner.gif" alt="Animated neon cyberpunk banner with a custom green insignia" width="100%">
+  <img src="./assets/profile-banner.gif" alt="Animated emerald cyberpunk profile banner with Maurya's insignia" width="100%">
 </div>
 
 <p align="center">
-  <img src="./assets/profile-mark.png" alt="Maurya's green cyberpunk symbol" width="48">
+  <img src="./assets/profile-mark.png" alt="Maurya's green cyberpunk insignia" width="52">
 </p>
 
 <p align="center">
-  <code>BUILD MODE: ACTIVE</code> &nbsp;•&nbsp;
+  <code>START SCREEN: ONLINE</code> &nbsp;•&nbsp;
   <code>AU VIZAG, INDIA</code> &nbsp;•&nbsp;
   <code>OPEN TO INTERNSHIPS</code>
 </p>
@@ -16,11 +16,20 @@
 
 <p align="center">
   <strong>Web &amp; App Developer · CSE @ AU Vizag · Hackathon Builder</strong><br>
-  I turn prototypes into practical web and desktop tools, then polish the details that make them feel good to use.
+  I turn rough ideas into useful web and desktop apps, then polish them until they feel right.
 </p>
 
 <p align="center">
-  10+ app prototypes &nbsp;•&nbsp; Web + desktop builds &nbsp;•&nbsp; Hackathon enthusiast
+  <code>10+ PROTOTYPES</code> &nbsp;•&nbsp;
+  <code>WEB + DESKTOP</code> &nbsp;•&nbsp;
+  <code>BUILD → SHIP → LEVEL UP</code>
+</p>
+
+<p align="center">
+  <a href="#02--mission-select"><code>🕹️ MISSION SELECT</code></a> &nbsp;·&nbsp;
+  <a href="#03--loadout"><code>🧰 LOADOUT</code></a> &nbsp;·&nbsp;
+  <a href="#06--hunter-system--player-log"><code>⚔️ PLAYER LOG</code></a> &nbsp;·&nbsp;
+  <a href="#05--party-finder"><code>📡 PARTY FINDER</code></a>
 </p>
 
 <p align="center">
@@ -34,97 +43,106 @@
 </p>
 
 <div align="center">
-  <img src="./assets/system-panel.svg" alt="Solo Leveling inspired player status window with active quests and skills" width="100%">
+  <img src="./assets/system-panel.svg" alt="Neon player card showing the rank path, app builder class, and current mission" width="100%">
 </div>
 
 ---
 
-## 01 / OPERATOR PROFILE
+## 01 / PLAYER PROFILE
 
-Computer Science Engineering student at Andhra University, Vizag. I like taking an idea from a rough prototype to a useful app, especially when the work combines a clean interface with practical functionality.
+Computer Science Engineering student at Andhra University, Vizag. I like practical software: desktop tools, full-stack web apps, and the details that make both easier to use.
 
-| Signal | Details |
+| PLAYER SIGNAL | CURRENT READOUT |
 |:--|:--|
-| **Build range** | Windows desktop apps, browser experiences, developer tools |
-| **Core stack** | Python, PyQt6, TypeScript, React, Express, SQLite |
-| **Current focus** | Full-stack development, product polish, and stronger end-to-end builds |
-| **Looking for** | Internships, entry-level opportunities, hackathons, and good collaborators |
+| **Build style** | Prototype quickly, listen closely, polish the experience |
+| **Current focus** | More complete full-stack products with React, TypeScript, and Express |
+| **Looking for** | Software internships, hackathons, and good teammates |
 
-## 02 / SELECTED BUILDS
+## 02 / MISSION SELECT
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MauryaKandula/cyber-notes">01 / CyberNotes</a></h3>
+      <h3>⚡ 01 / CyberNotes</h3>
       <p>A hardware-accelerated Windows notes app with rich text, freehand ink, live links and tags, and local SQLite storage.</p>
       <p><code>PYTHON</code> <code>PYQT6</code> <code>SQLITE</code></p>
+      <a href="https://github.com/MauryaKandula/cyber-notes">OPEN MISSION ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MauryaKandula/Web-dev/tree/main/ToolForge">02 / ToolForge</a></h3>
+      <h3>🛠️ 02 / ToolForge</h3>
       <p>Five developer workflows for onboarding, DSA practice, resume tailoring, portfolio building, and freelance work.</p>
       <p><code>TYPESCRIPT</code> <code>REACT</code> <code>EXPRESS</code></p>
+      <a href="https://github.com/MauryaKandula/Web-dev/tree/main/ToolForge">OPEN MISSION ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MauryaKandula/DuplicateCleaner">03 / DuplicateCleaner</a></h3>
+      <h3>🔎 03 / DuplicateCleaner</h3>
       <p>Finds byte-identical files with SHA-256 and previews recoverable space before deletion.</p>
       <p><code>PYTHON</code> <code>TKINTER</code></p>
+      <a href="https://github.com/MauryaKandula/DuplicateCleaner">OPEN MISSION ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MauryaKandula/MindMate">04 / MindMate</a></h3>
+      <h3>💬 04 / MindMate</h3>
       <p>A lightweight browser-based chatbot demo built as a focused web prototype.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JAVASCRIPT</code></p>
+      <a href="https://github.com/MauryaKandula/MindMate">OPEN MISSION ↗</a>
     </td>
   </tr>
 </table>
 
-## 03 / HOW I BUILD
+## 03 / LOADOUT
 
-- Start with the user problem and make the first working version quickly.
-- Keep the interface clear, then spend time on the small details: feedback, spacing, and edge cases.
-- Learn by shipping complete projects across web and desktop.
+| BUILD TYPE | TOOLS |
+|:--|:--|
+| **Desktop apps** | Python · PyQt6 · SQLite |
+| **Full-stack web** | TypeScript · React · Express |
+| **Web foundations** | HTML · CSS · JavaScript |
 
-## 04 / CURRENT TRANSMISSION
-
-I’m sharpening my full-stack skills and building more complete products with React, Express, Python, and Qt. I’m especially interested in practical tools, thoughtful UI, and teams where I can contribute while learning fast.
-
-## 05 / CONTACT
-
-**Open to:** internships · entry-level roles · hackathons · collaborations<br>
-**Email:** [mauryakpsofficial@gmail.com](mailto:mauryakpsofficial@gmail.com)<br>
-**GitHub:** [@MauryaKandula](https://github.com/MauryaKandula)
-
-## 06 / HUNTER SYSTEM — PLAYER LOG
+### BUILD LOOP
 
 <p align="center">
-  <code>SYSTEM WINDOW // PLAYER DATA SYNCED</code> &nbsp;•&nbsp;
+  <code>FIND THE PROBLEM</code> &nbsp;→&nbsp;
+  <code>SHIP A WORKING BUILD</code> &nbsp;→&nbsp;
+  <code>POLISH THE DETAILS</code>
+</p>
+
+## 04 / ACTIVE QUESTS
+
+<details>
+  <summary><strong>Open the quest log</strong> · current objectives</summary>
+  <br>
+  <ul>
+    <li>Turn more prototypes into complete, reliable products.</li>
+    <li>Keep leveling up full-stack skills with React, TypeScript, and Express.</li>
+    <li>Join a strong team, ship useful work, and learn from the build.</li>
+  </ul>
+  <p><code>SIDE QUEST: Make the interface feel as good as the feature.</code></p>
+</details>
+
+## 05 / PARTY FINDER
+
+I’m open to **software internships, entry-level opportunities, hackathons, and collaborations**. If you’re building something useful, let’s talk.
+
+<p align="center">
+  <a href="mailto:mauryakpsofficial@gmail.com"><img alt="Email Maurya" src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  &nbsp;
+  <a href="https://github.com/MauryaKandula"><img alt="Maurya on GitHub" src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+</p>
+
+## 06 / HUNTER SYSTEM / PLAYER LOG
+
+<p align="center">
   <code>RANK PATH: E → SSS+</code> &nbsp;•&nbsp;
+  <code>TITLE UNLOCKED: PROTOTYPE MONARCH</code> &nbsp;•&nbsp;
   <code>CLASS: APP BUILDER</code>
 </p>
 
-| System field | Current readout |
-|:--|:--|
-| **Player** | Maurya Kandula · CSE student at Andhra University, Vizag |
-| **Unlocked title** | Prototype Monarch · 10+ app prototypes |
-| **Loadout** | Python · PyQt6 · SQLite · TypeScript · React · Express |
-| **Passive skill** | Learn fast, ship early, polish the user experience |
-| **Party status** | Open to internships, hackathons, and building with good teammates |
-
-### ACTIVE QUESTS
-
-- [ ] Turn more prototypes into complete, reliable products.
-- [ ] Keep leveling up full-stack skills with React, TypeScript, and Express.
-- [ ] Join a strong team, ship useful work, and learn from the build.
-
 <div align="center">
-  <img src="./assets/hunter-system.gif" alt="Animated Solo Leveling inspired player status HUD with a scanning system bar" width="100%">
+  <img src="./assets/hunter-system.gif" alt="Animated hunter system player card with Maurya's green insignia, SSS+ rank path, and Prototype Monarch title" width="100%">
 </div>
 
 <p align="center">
-  <sub><code>QUEST ACCEPTED / BUILD SOMETHING PEOPLE WANT TO KEEP USING</code></sub>
-</p>
-
-<p align="center">
+  <sub><code>QUEST ACCEPTED / BUILD SOMETHING PEOPLE WANT TO KEEP USING</code></sub><br>
   <sub><code>BUILD AT THE EDGE / LEARN BY SHIPPING / REPEAT</code></sub>
 </p>
