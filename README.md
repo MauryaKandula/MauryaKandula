@@ -91,6 +91,21 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
+### 🪽 05 / ANGEL X — DESKTOP AI HUD
+
+<table width="100%">
+  <tr>
+    <td width="18%" align="center" valign="middle">
+      <a href="https://github.com/MauryaKandula/angel-x"><img src="./assets/angel-x-icon.png" alt="Angel X neon wing icon" width="112"></a>
+    </td>
+    <td width="82%" valign="middle">
+      <p>A Windows desktop AI HUD with a compact floating interface, click-through controls, multi-provider model support, and local Whisper speech-to-text.</p>
+      <p><code>JAVASCRIPT</code> <code>ELECTRON</code> <code>NODE.JS</code> <code>WHISPER.CPP</code></p>
+      <a href="https://github.com/MauryaKandula/angel-x">OPEN MISSION ↗</a>
+    </td>
+  </tr>
+</table>
+
 ## 03 / LOADOUT
 
 | BUILD TYPE | TOOLS |
@@ -98,6 +113,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | **Desktop apps** | Python · PyQt6 · SQLite |
 | **Full-stack web** | TypeScript · React · Express |
 | **Web foundations** | HTML · CSS · JavaScript |
+| **Desktop AI HUD** | JavaScript · Electron · Node.js · whisper.cpp |
 
 ### BUILD LOOP
 
