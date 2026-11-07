@@ -67,6 +67,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
       <p>A hardware-accelerated Windows notes app with rich text, freehand ink, live links and tags, and local SQLite storage.</p>
       <p><code>PYTHON</code> <code>PYQT6</code> <code>SQLITE</code></p>
       <a href="https://github.com/MauryaKandula/cyber-notes">OPEN MISSION ↗</a>
+      <p><a href="https://github.com/MauryaKandula/cyber-notes/releases/tag/v2.1.0"><code>LATEST BUILD / v2.1.0</code></a> &nbsp;·&nbsp; <a href="https://github.com/MauryaKandula/cyber-notes/releases/download/v2.1.0/CyberNotes-v2.1.0-Windows-Setup.zip">DOWNLOAD SETUP ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ 02 / ToolForge</h3>
@@ -106,6 +107,21 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
+### 🚀 06 / RYFT.IO — POCKET FLEET ARENA
+
+<table width="100%">
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <a href="https://github.com/MauryaKandula/Ryft.io"><img src="./assets/ryft-io-preview.png" alt="Pocket Fleet space-combat game start screen" width="220"></a>
+    </td>
+    <td width="68%" valign="middle">
+      <p>Pick a faction, customize a ship loadout, and battle in a neon space arena. The React and TypeScript client connects to a Colyseus WebSocket server for multiplayer matches.</p>
+      <p><code>REACT</code> <code>TYPESCRIPT</code> <code>COLYSEUS</code> <code>WEBSOCKETS</code></p>
+      <a href="https://github.com/MauryaKandula/Ryft.io">OPEN MISSION ↗</a>
+    </td>
+  </tr>
+</table>
+
 ## 03 / LOADOUT
 
 | BUILD TYPE | TOOLS |
@@ -114,6 +130,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | **Full-stack web** | TypeScript · React · Express |
 | **Web foundations** | HTML · CSS · JavaScript |
 | **Desktop AI HUD** | JavaScript · Electron · Node.js · whisper.cpp |
+| **Space arena** | React · TypeScript · Colyseus · WebSockets |
 
 ### BUILD LOOP
 
