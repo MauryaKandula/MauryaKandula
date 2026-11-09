@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/profile-mark.png" alt="Maurya's green cyberpunk insignia" width="52">
+  <img src="./assets/profile-avatar.png" alt="Maurya's Cyberpunk Avatar" width="120" style="border-radius: 50%;">
 </p>
 
 <p align="center">
@@ -98,10 +98,10 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 
 <table width="100%">
   <tr>
-    <td width="28%" align="center" valign="middle">
-      <a href="https://mauryakandula.github.io/Choco-Treats/"><img src="./assets/choco-treats-logo.png" alt="ChocoTreat Handcrafted Chocolates" width="160"></a>
+    <td width="24%" align="center" valign="middle">
+      <a href="https://mauryakandula.github.io/Choco-Treats/"><img src="./assets/choco-treats-logo.png" alt="ChocoTreat Handcrafted Chocolates Seal" width="130"></a>
     </td>
-    <td width="72%" valign="middle">
+    <td width="76%" valign="middle">
       <p>A bespoke, mobile-first web boutique for handcrafted artisan chocolates featuring custom gift box builders (6/12/24 pieces), flavor steppers, foil wrapper selectors, smooth motion transitions, serviceable pincode checker, and direct WhatsApp checkout.</p>
       <p><code>REACT</code> <code>TYPESCRIPT</code> <code>TAILWIND CSS</code> <code>MOTION</code> <code>VITE</code></p>
       <a href="https://mauryakandula.github.io/Choco-Treats/">LIVE SITE ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MauryaKandula/Choco-Treats">OPEN MISSION ↗</a>
@@ -109,29 +109,14 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
-### 🪽 06 / ANGEL X — DESKTOP AI HUD
+### 🚀 06 / RYFT.IO — POCKET FLEET ARENA
 
 <table width="100%">
   <tr>
-    <td width="18%" align="center" valign="middle">
-      <a href="https://github.com/MauryaKandula/angel-x"><img src="./assets/angel-x-icon.png" alt="Angel X neon wing icon" width="112"></a>
-    </td>
-    <td width="82%" valign="middle">
-      <p>A Windows desktop AI HUD with a compact floating interface, click-through controls, multi-provider model support, and local Whisper speech-to-text.</p>
-      <p><code>JAVASCRIPT</code> <code>ELECTRON</code> <code>NODE.JS</code> <code>WHISPER.CPP</code></p>
-      <a href="https://github.com/MauryaKandula/angel-x">OPEN MISSION ↗</a>
-    </td>
-  </tr>
-</table>
-
-### 🚀 07 / RYFT.IO — POCKET FLEET ARENA
-
-<table width="100%">
-  <tr>
-    <td width="32%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <a href="https://github.com/MauryaKandula/Ryft.io"><img src="./assets/ryft-io-preview.png" alt="Pocket Fleet space-combat game start screen" width="220"></a>
     </td>
-    <td width="68%" valign="middle">
+    <td width="70%" valign="middle">
       <p>Pick a faction, customize a ship loadout, and battle in a neon space arena. The React and TypeScript client connects to a Colyseus WebSocket server for multiplayer matches.</p>
       <p><code>REACT</code> <code>TYPESCRIPT</code> <code>COLYSEUS</code> <code>WEBSOCKETS</code></p>
       <a href="https://github.com/MauryaKandula/Ryft.io">OPEN MISSION ↗</a>
@@ -147,7 +132,6 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | **Full-stack web** | TypeScript · React · Express · Vite · Tailwind CSS |
 | **Boutique web & e-commerce** | React · TypeScript · Tailwind CSS · Motion · WhatsApp Checkout |
 | **Web foundations** | HTML · CSS · JavaScript |
-| **Desktop AI HUD** | JavaScript · Electron · Node.js · whisper.cpp |
 | **Space arena** | React · TypeScript · Colyseus · WebSockets |
 
 ### BUILD LOOP
