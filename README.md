@@ -37,6 +37,8 @@
   <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF">
   <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
   <img alt="HTML and CSS" src="https://img.shields.io/badge/HTML%20%2F%20CSS-0D1117?style=for-the-badge&logo=html5&logoColor=FF6B6B">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4EA8DE">
@@ -55,7 +57,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | PLAYER SIGNAL | CURRENT READOUT |
 |:--|:--|
 | **Build style** | Prototype quickly, listen closely, polish the experience |
-| **Current focus** | More complete full-stack products with React, TypeScript, and Express |
+| **Current focus** | Production-ready full-stack web apps with React, TypeScript, Tailwind, and Vite |
 | **Looking for** | Software internships, hackathons, and good teammates |
 
 ## 02 / MISSION SELECT
@@ -92,7 +94,22 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
-### 🪽 05 / ANGEL X — DESKTOP AI HUD
+### 🍫 05 / CHOCOTREAT — ARTISAN CHOCOLATE BOUTIQUE
+
+<table width="100%">
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <a href="https://mauryakandula.github.io/Choco-Treats/"><img src="./assets/choco-treats-logo.png" alt="ChocoTreat Handcrafted Chocolates" width="160"></a>
+    </td>
+    <td width="72%" valign="middle">
+      <p>A bespoke, mobile-first web boutique for handcrafted artisan chocolates featuring custom gift box builders (6/12/24 pieces), flavor steppers, foil wrapper selectors, smooth motion transitions, serviceable pincode checker, and direct WhatsApp checkout.</p>
+      <p><code>REACT</code> <code>TYPESCRIPT</code> <code>TAILWIND CSS</code> <code>MOTION</code> <code>VITE</code></p>
+      <a href="https://mauryakandula.github.io/Choco-Treats/">LIVE SITE ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MauryaKandula/Choco-Treats">OPEN MISSION ↗</a>
+    </td>
+  </tr>
+</table>
+
+### 🪽 06 / ANGEL X — DESKTOP AI HUD
 
 <table width="100%">
   <tr>
@@ -107,7 +124,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
-### 🚀 06 / RYFT.IO — POCKET FLEET ARENA
+### 🚀 07 / RYFT.IO — POCKET FLEET ARENA
 
 <table width="100%">
   <tr>
@@ -127,7 +144,8 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | BUILD TYPE | TOOLS |
 |:--|:--|
 | **Desktop apps** | Python · PyQt6 · SQLite |
-| **Full-stack web** | TypeScript · React · Express |
+| **Full-stack web** | TypeScript · React · Express · Vite · Tailwind CSS |
+| **Boutique web & e-commerce** | React · TypeScript · Tailwind CSS · Motion · WhatsApp Checkout |
 | **Web foundations** | HTML · CSS · JavaScript |
 | **Desktop AI HUD** | JavaScript · Electron · Node.js · whisper.cpp |
 | **Space arena** | React · TypeScript · Colyseus · WebSockets |
@@ -146,9 +164,10 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   <summary><strong>Open the quest log</strong> · current objectives</summary>
   <br>
   <ul>
-    <li>Turn more prototypes into complete, reliable products.</li>
-    <li>Keep leveling up full-stack skills with React, TypeScript, and Express.</li>
-    <li>Join a strong team, ship useful work, and learn from the build.</li>
+    <li>Shipped <strong>ChocoTreat</strong>: Artisan chocolate boutique with custom gift box builder and WhatsApp checkout flow.</li>
+    <li>Turn more prototypes into complete, reliable, and production-ready products.</li>
+    <li>Keep leveling up full-stack craftsmanship with React, TypeScript, and modern frontend tooling.</li>
+    <li>Join a strong team, ship useful work, and learn from every build.</li>
   </ul>
   <p><code>SIDE QUEST: Make the interface feel as good as the feature.</code></p>
 </details>
