@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="./assets/profile-banner.gif" alt="Animated emerald cyberpunk profile banner with Maurya's insignia" width="100%">
+  <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/profile-banner.gif" alt="Animated emerald cyberpunk profile banner with Maurya's insignia" width="100%">
 </div>
 
 <p align="center">
-  <img src="./assets/profile-avatar.png" alt="Maurya's Cyberpunk Avatar" width="120" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/profile-avatar.png" alt="Maurya's Cyberpunk Avatar" width="125" style="border-radius: 50%; border: 3px solid #00F5D4;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/profile-mark.png" alt="Maurya's green cyberpunk insignia" width="48">
 </p>
 
 <p align="center">
@@ -39,13 +43,15 @@
   <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=47A248">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=5FA04E">
   <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
   <img alt="HTML and CSS" src="https://img.shields.io/badge/HTML%20%2F%20CSS-0D1117?style=for-the-badge&logo=html5&logoColor=FF6B6B">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4EA8DE">
 </p>
 
 <div align="center">
-  <img src="./assets/system-panel.svg" alt="Neon player card showing the rank path, app builder class, and current mission" width="100%">
+  <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/system-panel.svg" alt="Neon player card showing the rank path, app builder class, and current mission" width="100%">
 </div>
 
 ---
@@ -57,8 +63,8 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | PLAYER SIGNAL | CURRENT READOUT |
 |:--|:--|
 | **Build style** | Prototype quickly, listen closely, polish the experience |
-| **Current focus** | Production-ready full-stack web apps with React, TypeScript, Tailwind, and Vite |
-| **Looking for** | Software internships, hackathons, and good teammates |
+| **Current focus** | Production-grade web & desktop apps with React, TypeScript, Python, and Vite |
+| **Looking for** | Software internships, hackathons, and ambitious engineering teams |
 
 ## 02 / MISSION SELECT
 
@@ -94,12 +100,27 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
-### 🍫 05 / CHOCOTREAT — ARTISAN CHOCOLATE BOUTIQUE
+### 🪽 05 / ANGEL X — DESKTOP AI HUD
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <a href="https://github.com/MauryaKandula/angel-x"><img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/angel-x-icon.png" alt="Angel X neon wing icon" width="112"></a>
+    </td>
+    <td width="80%" valign="middle">
+      <p>A high-performance transparent desktop AI overlay for Windows with 0-100% background opacity, native screen-share invisibility (<code>WDA_EXCLUDEFROMCAPTURE</code>), click-through mode, universal multi-LLM matrix, and local GPU Whisper STT loopback.</p>
+      <p><code>JAVASCRIPT</code> <code>ELECTRON</code> <code>NODE.JS</code> <code>WHISPER.CPP</code></p>
+      <a href="https://github.com/MauryaKandula/angel-x">OPEN MISSION ↗</a>
+    </td>
+  </tr>
+</table>
+
+### 🍫 06 / CHOCOTREAT — ARTISAN CHOCOLATE BOUTIQUE
 
 <table width="100%">
   <tr>
     <td width="24%" align="center" valign="middle">
-      <a href="https://mauryakandula.github.io/Choco-Treats/"><img src="./assets/choco-treats-logo.png" alt="ChocoTreat Handcrafted Chocolates Seal" width="130"></a>
+      <a href="https://mauryakandula.github.io/Choco-Treats/"><img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/choco-treats-logo.png" alt="ChocoTreat Handcrafted Chocolates Seal" width="130"></a>
     </td>
     <td width="76%" valign="middle">
       <p>A bespoke, mobile-first web boutique for handcrafted artisan chocolates featuring custom gift box builders (6/12/24 pieces), flavor steppers, foil wrapper selectors, smooth motion transitions, serviceable pincode checker, and direct WhatsApp checkout.</p>
@@ -109,12 +130,12 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
-### 🚀 06 / RYFT.IO — POCKET FLEET ARENA
+### 🚀 07 / RYFT.IO — POCKET FLEET ARENA
 
 <table width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <a href="https://github.com/MauryaKandula/Ryft.io"><img src="./assets/ryft-io-preview.png" alt="Pocket Fleet space-combat game start screen" width="220"></a>
+      <a href="https://github.com/MauryaKandula/Ryft.io"><img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/ryft-io-preview.png" alt="Pocket Fleet space-combat game start screen" width="220"></a>
     </td>
     <td width="70%" valign="middle">
       <p>Pick a faction, customize a ship loadout, and battle in a neon space arena. The React and TypeScript client connects to a Colyseus WebSocket server for multiplayer matches.</p>
@@ -131,6 +152,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | **Desktop apps** | Python · PyQt6 · SQLite |
 | **Full-stack web** | TypeScript · React · Express · Vite · Tailwind CSS |
 | **Boutique web & e-commerce** | React · TypeScript · Tailwind CSS · Motion · WhatsApp Checkout |
+| **Desktop AI HUD** | JavaScript · Electron · Node.js · whisper.cpp |
 | **Web foundations** | HTML · CSS · JavaScript |
 | **Space arena** | React · TypeScript · Colyseus · WebSockets |
 
@@ -149,6 +171,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   <br>
   <ul>
     <li>Shipped <strong>ChocoTreat</strong>: Artisan chocolate boutique with custom gift box builder and WhatsApp checkout flow.</li>
+    <li>Shipped <strong>Angel X</strong>: High-performance transparent desktop AI HUD with local CUDA Whisper sidecar.</li>
     <li>Turn more prototypes into complete, reliable, and production-ready products.</li>
     <li>Keep leveling up full-stack craftsmanship with React, TypeScript, and modern frontend tooling.</li>
     <li>Join a strong team, ship useful work, and learn from every build.</li>
@@ -175,7 +198,7 @@ I’m open to **software internships, entry-level opportunities, hackathons, and
 </p>
 
 <div align="center">
-  <img src="./assets/hunter-system.gif" alt="Animated hunter system player card with Maurya's green insignia, SSS+ rank path, and Prototype Monarch title" width="100%">
+  <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/hunter-system.gif" alt="Animated hunter system player card with Maurya's green insignia, SSS+ rank path, and Prototype Monarch title" width="100%">
 </div>
 
 <p align="center">
