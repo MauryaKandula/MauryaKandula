@@ -3,10 +3,6 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/profile-avatar.png" alt="Maurya's Cyberpunk Avatar" width="125" style="border-radius: 50%; border: 3px solid #00F5D4;">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/profile-mark.png" alt="Maurya's green cyberpunk insignia" width="48">
 </p>
 
