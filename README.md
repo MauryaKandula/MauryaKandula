@@ -149,7 +149,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="middle">
-      <a href="https://github.com/MauryaKandula/Xero"><img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/profile-mark.png" alt="Xero project link" width="92"></a>
+      <p align="center"><a href="https://github.com/MauryaKandula/Xero"><code>XERO</code><br><code>AI COMPANION</code></a></p>
     </td>
     <td width="80%" valign="middle">
       <p>A floating AI companion with a separate XERO Studio control center, built-in offline tools, local LLM support, and optional Gemini streaming.</p>
