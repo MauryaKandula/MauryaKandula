@@ -44,6 +44,8 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
   <img alt="HTML and CSS" src="https://img.shields.io/badge/HTML%20%2F%20CSS-0D1117?style=for-the-badge&logo=html5&logoColor=FF6B6B">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4EA8DE">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
 </p>
 
 <div align="center">
@@ -141,6 +143,41 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   </tr>
 </table>
 
+
+### 🤖 08 / XERO — ANIMATED AI COMPANION
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <a href="https://github.com/MauryaKandula/Xero"><img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/profile-mark.png" alt="Xero project link" width="92"></a>
+    </td>
+    <td width="80%" valign="middle">
+      <p>A floating AI companion with a separate XERO Studio control center, built-in offline tools, local LLM support, and optional Gemini streaming.</p>
+      <p><code>TYPESCRIPT</code> <code>REACT</code> <code>EXPRESS</code> <code>VITE</code></p>
+      <a href="https://github.com/MauryaKandula/Xero">OPEN MISSION ↗</a>
+    </td>
+  </tr>
+</table>
+
+### 🧪 APPLIED ML — INTERNSHIP PROJECTS
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✍️ 09 / Handwritten Digit Recognition</h3>
+      <p>Benchmarks five classifiers on UCI's writer-separated digit dataset, with evaluation reports and an interactive Streamlit demo.</p>
+      <p><code>PYTHON</code> <code>SCIKIT-LEARN</code> <code>STREAMLIT</code></p>
+      <a href="https://github.com/MauryaKandula/aiml-internship-digit-recognition">OPEN MISSION ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 10 / Wholesale Customer Segmentation</h3>
+      <p>Compares K-Means and Gaussian Mixtures on UCI wholesale data, with cluster metrics and an interactive dashboard.</p>
+      <p><code>PYTHON</code> <code>SCIKIT-LEARN</code> <code>STREAMLIT</code></p>
+      <a href="https://github.com/MauryaKandula/aiml-internship-customer-segmentation">OPEN MISSION ↗</a>
+    </td>
+  </tr>
+</table>
+
 ## 03 / LOADOUT
 
 | BUILD TYPE | TOOLS |
@@ -151,6 +188,7 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
 | **Desktop AI HUD** | JavaScript · Electron · Node.js · whisper.cpp |
 | **Web foundations** | HTML · CSS · JavaScript |
 | **Space arena** | React · TypeScript · Colyseus · WebSockets |
+| **Applied ML** | Python · scikit-learn · Streamlit |
 
 ### BUILD LOOP
 
@@ -201,3 +239,5 @@ I’m open to **software internships, entry-level opportunities, hackathons, and
   <sub><code>QUEST ACCEPTED / BUILD SOMETHING PEOPLE WANT TO KEEP USING</code></sub><br>
   <sub><code>BUILD AT THE EDGE / LEARN BY SHIPPING / REPEAT</code></sub>
 </p>
+
+<p align="center"><sub>© 2026 Kandula Paul Saketh Maurya · Original profile copy and artwork; third-party logos and services retain their own terms.</sub></p>
