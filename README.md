@@ -198,6 +198,10 @@ Computer Science Engineering student at Andhra University, Vizag. I like practic
   <code>POLISH THE DETAILS</code>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MauryaKandula/MauryaKandula/main/assets/build-flow.gif" alt="A neon signal travels through four build stages: idea, build, refine, and ship." width="100%">
+</div>
+
 ## 04 / ACTIVE QUESTS
 
 <details>
